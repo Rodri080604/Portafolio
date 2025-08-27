@@ -120,7 +120,3 @@ const $$ = (s, c=document) => [...c.querySelectorAll(s)];
 
     
     $('#year').textContent = new Date().getFullYear();
-
-
-
-    
